@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">botDetectDemo</string>
+    <string name="checkbox1">朕知道了</string>
+    <string name="register">Register</string>
+    <string name="textview">TextView</string>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="poetry">Life, thin and light-off time and time again \n Frivolous tireless \n one \n</string>
+</resources>
